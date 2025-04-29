@@ -1,0 +1,29 @@
+{
+  "properties": [
+    {
+      "id": "DORIS-001",
+      "source": "DORIS",
+      "ownerName": "Rahul Sharma",
+      "address": "123 MG Road, Bangalore, Karnataka",
+      "propertyType": "urban",
+      "area": "1200 sq ft",
+      "marketValue": "₹85,00,000",
+      "registrationNumber": "BLR-REG-2022-12345",
+      "registrationDate": "2022-06-15",
+      "registrationOffice": "Bangalore South Sub-Registrar Office",
+      "encumbrances": [
+        {
+          "type": "Mortgage",
+          "holder": "State Bank of India",
+          "amount": "₹50,00,000",
+          "date": "2022-06-20"
+        }
+      ],
+      "propertyTax": "₹15,000 per annum",
+      "lastTransactionDate": "2022-06-15",
+      "documentType": "Sale Deed",
+      "executionDate": "2022-06-10",
+      "propertyDescription": "Residential apartment on 3rd floor"
+    }
+  ]
+}
