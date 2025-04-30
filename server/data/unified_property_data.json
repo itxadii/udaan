@@ -24,6 +24,181 @@
       "documentType": "Sale Deed",
       "executionDate": "2022-06-10",
       "propertyDescription": "Residential apartment on 3rd floor"
+    },
+    {
+      "id": "CERSAI-003",
+      "source": "CERSAI",
+      "ownerName": "Ramesh Agarwal",
+      "address": "Survey No. 45, Hoskote Village, Bangalore Rural, Karnataka",
+      "propertyType": "rural",
+      "area": "3 acres",
+      "marketValue": "₹1,20,00,000",
+      "registrationNumber": "SI-BLR-2022-78901",
+      "registrationDate": "2022-02-05",
+      "registrationOffice": "Bangalore Rural CERSAI Registry Office",
+      "encumbrances": [
+        {
+          "type": "Security Interest",
+          "holder": "Karnataka Bank Ltd.",
+          "amount": "₹75,00,000",
+          "date": "2022-02-08"
+        }
+      ],
+      "propertyTax": "Not available",
+      "lastTransactionDate": "Not available",
+      "documentType": "Mortgage",
+      "executionDate": "2022-02-01",
+      "propertyDescription": "Agricultural land with borewells and farm house"
+    },
+    {
+      "id": "MCA21-1745959372061",
+      "source": "MCA21",
+      "ownerName": "TechSolutions Pvt Ltd",
+      "address": "Not available",
+      "propertyType": "urban",
+      "area": "Not available",
+      "marketValue": "Not available",
+      "registrationNumber": "Not available",
+      "registrationDate": "Not available",
+      "registrationOffice": "Not available",
+      "encumbrances": [
+        {
+          "type": "Charge",
+          "holder": null,
+          "amount": null,
+          "date": null
+        }
+      ],
+      "propertyTax": "Not available",
+      "lastTransactionDate": "Not available",
+      "documentType": "Not available",
+      "executionDate": "Not available",
+      "propertyDescription": "Not available"
+    },
+    {
+      "id": "DLR-001",
+      "source": "DLR",
+      "ownerName": "Ramesh Kumar",
+      "address": "Survey No. 123, Village Hoskote, Bangalore Rural, Karnataka",
+      "propertyType": "rural",
+      "area": "2 acres",
+      "marketValue": "₹1,20,00,000",
+      "registrationNumber": "KA-BLR-123-456-789",
+      "registrationDate": "2021-08-15",
+      "registrationOffice": "Hoskote Tehsil Office",
+      "encumbrances": [
+        {
+          "type": "Agricultural Loan",
+          "holder": "Karnataka Gramin Bank",
+          "amount": "₹15,00,000",
+          "date": "2021-09-10"
+        }
+      ],
+      "propertyTax": "₹5,000 per annum",
+      "lastTransactionDate": "2021-08-20",
+      "documentType": "Inheritance",
+      "executionDate": "Not available",
+      "propertyDescription": "Agricultural land with water source"
+    },
+    {
+      "id": "CERSAI-003",
+      "source": "CERSAI",
+      "ownerName": "Ramesh Agarwal",
+      "address": "Survey No. 45, Hoskote Village, Bangalore Rural, Karnataka",
+      "propertyType": "rural",
+      "area": "3 acres",
+      "marketValue": "₹1,20,00,000",
+      "registrationNumber": "SI-BLR-2022-78901",
+      "registrationDate": "2022-02-05",
+      "registrationOffice": "Bangalore Rural CERSAI Registry Office",
+      "encumbrances": [
+        {
+          "type": "Security Interest",
+          "holder": "Karnataka Bank Ltd.",
+          "amount": "₹75,00,000",
+          "date": "2022-02-08"
+        }
+      ],
+      "propertyTax": "Not available",
+      "lastTransactionDate": "Not available",
+      "documentType": "Mortgage",
+      "executionDate": "2022-02-01",
+      "propertyDescription": "Agricultural land with borewells and farm house"
+    },
+    {
+      "id": "MCA21-1745960178220",
+      "source": "MCA21",
+      "ownerName": "TechSolutions Pvt Ltd",
+      "address": "Not available",
+      "propertyType": "urban",
+      "area": "Not available",
+      "marketValue": "Not available",
+      "registrationNumber": "Not available",
+      "registrationDate": "Not available",
+      "registrationOffice": "Not available",
+      "encumbrances": [
+        {
+          "type": "Charge",
+          "holder": null,
+          "amount": null,
+          "date": null
+        }
+      ],
+      "propertyTax": "Not available",
+      "lastTransactionDate": "Not available",
+      "documentType": "Not available",
+      "executionDate": "Not available",
+      "propertyDescription": "Not available"
+    },
+    {
+      "id": "MCA21-1745962052244",
+      "source": "MCA21",
+      "ownerName": "TechSolutions Pvt Ltd",
+      "address": "Not available",
+      "propertyType": "urban",
+      "area": "Not available",
+      "marketValue": "Not available",
+      "registrationNumber": "Not available",
+      "registrationDate": "Not available",
+      "registrationOffice": "Not available",
+      "encumbrances": [
+        {
+          "type": "Charge",
+          "holder": null,
+          "amount": null,
+          "date": null
+        }
+      ],
+      "propertyTax": "Not available",
+      "lastTransactionDate": "Not available",
+      "documentType": "Not available",
+      "executionDate": "Not available",
+      "propertyDescription": "Not available"
+    },
+    {
+      "id": "MCA21-1745984312574",
+      "source": "MCA21",
+      "ownerName": "TechSolutions Pvt Ltd",
+      "address": "Not available",
+      "propertyType": "urban",
+      "area": "Not available",
+      "marketValue": "Not available",
+      "registrationNumber": "Not available",
+      "registrationDate": "Not available",
+      "registrationOffice": "Not available",
+      "encumbrances": [
+        {
+          "type": "Charge",
+          "holder": null,
+          "amount": null,
+          "date": null
+        }
+      ],
+      "propertyTax": "Not available",
+      "lastTransactionDate": "Not available",
+      "documentType": "Not available",
+      "executionDate": "Not available",
+      "propertyDescription": "Not available"
     }
   ]
 }
